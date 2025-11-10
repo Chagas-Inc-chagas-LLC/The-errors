@@ -1,0 +1,1 @@
+#define FASTBOOT_MAIN_H
