@@ -1,1 +1,3 @@
 #define FASTBOOT_MAIN_H
+#define RECOVERY_H
+#define FACTORY_RESET_H
